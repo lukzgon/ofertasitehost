@@ -45,6 +45,10 @@ export default function Home() {
     setShippingDate(calculateShippingDate());
   }, []);
 
+  const handleBuyNowClick = () => {
+    window.location.href = 'https://checkout.paymentseguro.com.br/VCCL1O8SCFAN';
+  };
+
   return (
     <div className="flex flex-col min-h-screen bg-background">
       
@@ -149,7 +153,7 @@ export default function Home() {
                 <Button variant="outline" className="flex-1 h-12">
                    <ShoppingCart />
                 </Button>
-                <Button className="flex-1 h-12 botao-comprar-agora">
+                <Button className="flex-1 h-12 botao-comprar-agora" onClick={handleBuyNowClick}>
                     <span className="texto-acao-principal">{product.barraAcoesFixa.comprarAgora.texto}</span>
                     <span className="detalhe-preco-frete">{product.barraAcoesFixa.comprarAgora.precoDetalhe}</span>
                 </Button>
