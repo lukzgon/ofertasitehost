@@ -8,7 +8,7 @@ export const productData: Product = {
     nome: "NextWheel Store",
     urlIconeVerificacao: ""
   },
-  nome: "Patinete Elétrico Scooter De Alumínio Com Bluetooth 30km/h",
+  nome: "Meta Quest 3S 128 GB – Headset de Realidade Mista (VR) – Novo, Lacrado",
   marca: "Foston",
   modelo: "FS-S09 Pro",
   estatisticas: {
