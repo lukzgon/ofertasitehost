@@ -50,7 +50,7 @@ export const productData: Product = {
       { id: "img02", url: "https://i.postimg.cc/0QKLFZfR/br-11134207-81z1k-mgidy052cpvof0resize-w450-nl.jpg", tipo: "dobrado", alt: "Patinete elétrico dobrado" },
       { id: "img03", url: "https://i.postimg.cc/yNgQ8xSL/Cn-P-02112025-204223.png", tipo: "detalhe", alt: "Detalhe da roda traseira do patinete" },
       { id: "img04", url: "https://i.postimg.cc/1tyqYYPg/Airbrush-IMAGE-ENHANCER-1762127140576-1762127140576.png", tipo: "vista_lateral", alt: "Vista lateral do patinete" },
-      { id: "img05", url: "https://i.postimg.cc/1txXVy5L/Cn-P-24102025-214004.png", tipo: "diagrama", alt: "Diagrama de dimensões do patinete" }
+      { id: "img05", url: "https://i.postimg.cc/63T93dh9/Airbrush-IMAGE-ENHANCER-1762127311379-1762127311379.png", tipo: "diagrama", alt: "Diagrama de dimensões do patinete" }
     ]
   },
   barraAcoesFixa: {
@@ -187,5 +187,3 @@ export const imageMap: Record<string, ProductImage> = imagePlaceholders.reduce(
   },
   {} as Record<string, ProductImage>
 );
-
-    
