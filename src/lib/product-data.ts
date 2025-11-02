@@ -47,7 +47,7 @@ export const productData: Product = {
     urlPrincipal: "https://i.postimg.cc/v8P7gMLm/br-11134207-81z1k-mgidy04voirk41-resize-w450-nl.jpg",
     galeria: [
       { id: "img01", url: "https://i.postimg.cc/v8P7gMLm/br-11134207-81z1k-mgidy04voirk41-resize-w450-nl.jpg", tipo: "principal", alt: "Patinete elétrico inteiro" },
-      { id: "img02", url: "https://i.postimg.cc/mDF9KdhS/Cn-P-24102025-213611.png", tipo: "dobrado", alt: "Patinete elétrico dobrado" },
+      { id: "img02", url: "https://i.postimg.cc/WpKFc4wS/br-11134207-81z1k-mgidy052cpvof0-resize-w450-nl.jpg", tipo: "dobrado", alt: "Patinete elétrico dobrado" },
       { id: "img03", url: "https://i.postimg.cc/TPgHGcyW/Cn-P-24102025-232753.png", tipo: "detalhe", alt: "Detalhe da roda traseira do patinete" },
       { id: "img04", url: "https://i.postimg.cc/5NfHm95p/Cn-P-24102025-213856.png", tipo: "vista_lateral", alt: "Vista lateral do patinete" },
       { id: "img05", url: "https://i.postimg.cc/1txXVy5L/Cn-P-24102025-214004.png", tipo: "diagrama", alt: "Diagrama de dimensões do patinete" }
@@ -187,5 +187,6 @@ export const imageMap: Record<string, ProductImage> = imagePlaceholders.reduce(
   },
   {} as Record<string, ProductImage>
 );
+
 
 
