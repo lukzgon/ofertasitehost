@@ -120,8 +120,8 @@ export const productData: Product = {
   },
   descricao: {
     titulo: "Descrição",
-    textoPrincipal: "O Patinete Elétrico Foston FS-S09 Pro é a escolha ideal para quem busca mobilidade urbana com praticidade, tecnologia e desempenho. Solução perfeita para sua locomoção diária, de forma rápida, segura e sustentável.",
-    textoCompleto: "Equipado com motor de 300W, três modos de pilotagem e conexão via Bluetooth com aplicativo, este patinete oferece uma condução inteligente e segura. Sua estrutura 100% em alumínio reforçado garante resistência e leveza, enquanto o design dobrável o torna fácil de transportar e ideal para o dia a dia. Para maior estabilidade e segurança, conta com pneus com câmara de ar e freios a disco, além de farol em LED e sistema de freios eficiente. A conectividade Bluetooth permite controlar diversas funções pelo smartphone.",
+    textoPrincipal: "Descubra uma nova forma de jogar, se exercitar e explorar com o Meta Quest 2 256GB. Com design leve e totalmente sem fios, ele oferece liberdade total de movimento e imersão completa em realidade virtual.",
+    textoCompleto: "Equipado com o processador Qualcomm Snapdragon XR2, 6GB de RAM e ampla capacidade de armazenamento, garante desempenho rápido e fluidez em todos os jogos e aplicativos. Os controladores Touch e o som 3D integrado tornam cada experiência mais realista e envolvente.",
     fichaTecnica: {
       "Marca": "Meta (Oculus)",
       "Modelo": "Quest 2",
