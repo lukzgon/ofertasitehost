@@ -141,10 +141,13 @@ export const productData: Product = {
       "ConteudoDaEmbalagem": "Headset, 2 controladores, cabo USB-C, adaptador e guia rápido"
     },
     dicasDeUso: [
-      "Mantenha a calibragem correta dos pneus para melhor desempenho e conforto.",
-      "Recarregue totalmente a bateria antes do primeiro uso.",
-      "Evite terrenos extremamente irregulares ou molhados para maior durabilidade do equipamento.",
-      "Acompanhe e controle as funções do patinete via aplicativo Bluetooth compatível."
+      "Ajuste corretamente o headset e as lentes para maior conforto.",
+      "Use em um espaço seguro, livre de obstáculos.",
+      "Configure a área de segurança (Guardian) antes de jogar.",
+      "Mantenha o aparelho sempre carregado e atualizado.",
+      "Limpe as lentes apenas com pano de microfibra.",
+      "Utilize o modo Air Link para jogar sem fios.",
+      "Guarde o dispositivo em local seco e protegido do sol."
     ],
     avisoLegal: "Idade mínima recomendada: 8 anos."
   }
