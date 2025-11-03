@@ -65,12 +65,12 @@ export const productData: Product = {
   },
   visaoGeral: {
     titulo: "Visão geral",
-    resumoProduto: "A escolha ideal para quem busca mobilidade urbana com praticidade, tecnologia e desempenho.",
+    resumoProduto: "A escolha ideal para quem busca imersão, desempenho e liberdade total na realidade virtual.",
     diferenciais: [
-      "Economia de tempo no trânsito",
-      "Sustentável e ecológico",
-      "Fácil manuseio e controle",
-      "Baixo custo de manutenção"
+        "Experiência totalmente sem fios e independente",
+        "Gráficos imersivos com alto desempenho",
+        "Controle preciso e confortável",
+        "Grande espaço interno para jogos e aplicativos"
     ],
     avaliacoes: {
       tituloSecao: "Avaliações dos clientes",
