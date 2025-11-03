@@ -8,9 +8,9 @@ export const productData: Product = {
     nome: "TechTop Store",
     urlIconeVerificacao: ""
   },
-  nome: "Meta Quest 2 256GB – Headset de Realidade Mista (VR) – Novo, Lacrado",
+  nome: "Meta Quest 3s 256GB – Headset de Realidade Mista (VR) – Novo, Lacrado",
   marca: "Foston",
-  modelo: "FS-S09 Pro",
+  modelo: "Quest 3s",
   estatisticas: {
     mediaAvaliacao: 4.8,
     totalAvaliacoes: 892,
@@ -102,7 +102,7 @@ export const productData: Product = {
               cidade: "Belo Horizonte, MG",
               nota: 5,
               data: "2023-10-27T10:30:00Z",
-              texto: "Estou adorando meu Meta Quest 2! Funciona perfeitamente, a bateria dura bastante e é muito confortável de usar. Compra segura e totalmente recomendada.",
+              texto: "Estou adorando meu Meta Quest 3s! Funciona perfeitamente, a bateria dura bastante e é muito confortável de usar. Compra segura e totalmente recomendada.",
               fotoUrlComentario: "https://i.postimg.cc/PJ58d66z/Imagem-do-Whats-App-de-2025-11-02-a-s-21-13-57-f8c43402.jpg",
               fotoUrlAutor: "https://i.postimg.cc/hvWyfyYN/Cn-P-24102025-235423.png"
           },
@@ -120,11 +120,11 @@ export const productData: Product = {
   },
   descricao: {
     titulo: "Descrição",
-    textoPrincipal: "Descubra uma nova forma de jogar, se exercitar e explorar com o Meta Quest 2 256GB. Com design leve e totalmente sem fios, ele oferece liberdade total de movimento e imersão completa em realidade virtual.",
+    textoPrincipal: "Descubra uma nova forma de jogar, se exercitar e explorar com o Meta Quest 3s 256GB. Com design leve e totalmente sem fios, ele oferece liberdade total de movimento e imersão completa em realidade virtual.",
     textoCompleto: "Equipado com o processador Qualcomm Snapdragon XR2, 6GB de RAM e ampla capacidade de armazenamento, garante desempenho rápido e fluidez em todos os jogos e aplicativos. Os controladores Touch e o som 3D integrado tornam cada experiência mais realista e envolvente.",
     fichaTecnica: {
       "Marca": "Meta (Oculus)",
-      "Modelo": "Quest 2",
+      "Modelo": "Quest 3s",
       "Armazenamento": "256GB",
       "Processador": "Qualcomm Snapdragon XR2",
       "MemoriaRAM": "6GB",
@@ -193,3 +193,6 @@ export const imageMap: Record<string, ProductImage> = imagePlaceholders.reduce(
 
 
 
+
+
+    
