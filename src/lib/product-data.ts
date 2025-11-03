@@ -5,7 +5,7 @@ import placeholderData from './placeholder-images.json';
 export const productData: Product = {
   idLoja: "nextWheelStore",
   vendedor: {
-    nome: "NextWheel Store",
+    nome: "TechTop Store",
     urlIconeVerificacao: ""
   },
   nome: "Meta Quest 2 256GB – Headset de Realidade Mista (VR) – Novo, Lacrado",
@@ -56,7 +56,7 @@ export const productData: Product = {
   barraAcoesFixa: {
     loja: { texto: "Loja" },
     chat: { texto: "Chat" },
-    carrinhoRapido: { icone: "carrinho", acoao: "adicionar_carrinho" },
+    carrinhoRapido: { icone: "carrinho", acao: "adicionar_carrinho" },
     comprarAgora: {
       texto: "Comprar agora",
       precoDetalhe: "R$ 67,90 | Frete grátis",
@@ -154,7 +154,7 @@ export const productData: Product = {
 };
 
 export const storeData: Store = {
-  nome: "NextWheel Store",
+  nome: "TechTop Store",
   slogan: "Shop",
   statusVerificacao: {
     verificada: true,
@@ -190,5 +190,6 @@ export const imageMap: Record<string, ProductImage> = imagePlaceholders.reduce(
   },
   {} as Record<string, ProductImage>
 );
+
 
 
