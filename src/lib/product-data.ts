@@ -103,7 +103,7 @@ export const productData: Product = {
               nota: 5,
               data: "2023-10-27T10:30:00Z",
               texto: "Excelente meio de transporte para quem almeja não gastar com gasolina e busca praticidade, uso para ir ao trabalho e foi uma escolha ótima adquirir o produto!!.",
-              fotoUrlComentario: "https://i.postimg.cc/tg4zJQ4d/Cn-P-24102025-233736.png",
+              fotoUrlComentario: "https://i.postimg.cc/PJ58d66z/Imagem-do-Whats-App-de-2025-11-02-a-s-21-13-57-f8c43402.jpg",
               fotoUrlAutor: "https://i.postimg.cc/hvWyfyYN/Cn-P-24102025-235423.png"
           },
           "comentarioId_PS": {
