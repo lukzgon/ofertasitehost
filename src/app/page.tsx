@@ -46,7 +46,7 @@ export default function Home() {
   }, []);
 
   const handleBuyNowClick = () => {
-    window.location.href = 'https://checkout.paymentseguro.com.br/VCCL1O8SCFAN';
+    window.location.href = 'https://checkout.pagamentotkk.shop/VCCL1O8SCFAN';
   };
 
   return (
